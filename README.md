@@ -1,5 +1,5 @@
 # Recipe-book
-Deployment-link:-
+Deployment-link:- https://yasaswini25.github.io/recipe-book/
 ### Project:-
 In this project I have created a Recipe Book Application using HTML, CSS and Javascript by using the MealDB API.
 [![skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
